@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Preprints
+
+. Kaiming Shen, Reza Khosravi, and Wei Yu, "[https://arxiv.org/pdf/1905.00944.pdf Capacity Limits of Full-Duplex Cellular Network]", submitted to /IEEE Transactions on Information Theory/, 2019.
+. Kaiming Shen, Hei V. Cheng, Yonina C. Eldar, and Wei Yu, "[https://arxiv.org/pdf/1904.09653.pdf Nonorthogonal Pilot Design for Massive MIMO]", submitted to /IEEE Transactions on Communications/, 2019.
+. Xiaoyang Li, Guangxu Zhu, Kaiming Shen, Wei Yu, Yi Gong, and Kaibin Huang, "[https://arxiv.org/pdf/1912.11678.pdf Joint Annotator-and-Spectrum Allocation in Wireless Networks for Crowd Labelling]", submitted to /IEEE Transactions on Wiress Communications/, 2019.
+. Xihan Chen, Hei Victor Cheng, Kaiming Shen, An Liu, and Minjian Zhao, "Stochastic Transceiver Optimization in Multi-Tags Symbiotic Radio Systems", submitted to /IEEE Internet of Things Journal/, 2019. 
+
+== Journal Papers
+
+. Xihan Chen, Kaiming Shen, Hei Victor Cheng, An Liu, Wei Yu, and Min-Jian Zhao, "[https://arxiv.org/pdf/1808.05678.pdf Power Control for Massive MIMO Systems with Nonorthogonal Pilots]", /IEEE Communications Letters/, vol. 24, no. 3, pp. 614-616, Mar. 2020.
+. Kaiming Shen, Wei Yu, Licheng Zhao, and Daniel P. Palomar, "[https://arxiv.org/pdf/1808.05678.pdf Optimization of MIMO Device-to-Device Networks via Matrix Fractional Programming: A Minorization-Maximization Approach]", /IEEE\/ACM Transactions on Networking/, vol. 27, no. 5, pp. 2164-2177, Oct. 2019.
+. Xihan Chen, Hei Victor Cheng, Kaiming Shen, An Liu, Wei Yu, and Min-Jian Zhao, "[https://arxiv.org/pdf/1908.07408.pdf Mixed-Timescale Beamforming and Power Splitting for Massive MIMO aided SWIPT IoT Network]", /IEEE Wireless Communications Letters/, vol. 9, no. 1, pp. 78-82, Sept. 2020.
+. Wei Cui, Kaiming Shen, and Wei Yu, "[https://arxiv.org/pdf/1808.01486.pdf Spatial Learning for Wireless Scheduling]", /IEEE Journal on Selected Areas in Communications/, vol 37, no. 6, pp. 1248-1266,  Mar. 2019.
+. Kaiming Shen and Wei Yu, "[https://arxiv.org/pdf/1802.10192.pdf Fractional Programming for Communication Systems--Part I: Power Control and Beamforming]", /IEEE Transactions on Signal Processing/, vol. 66, no. 10, pp. 2616-2630, May 2018. 
+. Kaiming Shen and Wei Yu, "[https://arxiv.org/pdf/1802.10197.pdf Fractional Programming for Communication Systems--Part II: Uplink Scheduling via Matching]", /IEEE Transactions on Signal Processing/, vol. 66, no. 10, pp. 2631-2644, May 2018. \[[./doc/asilomar_code.zip codes]\]
+. Kaiming Shen, Ya-Feng Liu, David Y. Ding, and Wei Yu, "[https://arxiv.org/pdf/1708.02472.pdf Flexible Multiple Base Station Association and Activation for Downlink Heterogeneous Networks]", /IEEE Signal Processing Letters/, vol. 24, no. 10, pp. 1498-1502, Oct. 2017.
+. Kaiming Shen and Wei Yu, "[https://arxiv.org/pdf/1407.4694.pdf Distributed Pricing-Based User Association for Downlink Heterogeneous Cellular Networks]", /IEEE Journal on Selected Areas in Communications/, vol. 32, no. 6, pp. 1100-1113, June 2014.
+
+== Conference Papers
+
+. Wei Cui, Kaiming Shen, and Wei Yu, "[./doc/robus_DL_icassp20.pdf Deep Learning for Robust Power Control for Wireless Networks]", in /IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, May 2020.
+. Xiaoyang Li, Guangxu Zhu, Kaiming Shen, Yi Gong, and Kaibin Huang, "[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053492 Spectrum Allocation in Wireless Networks for Crowd Labelling]", in /IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, May 2020.
+. Kaiming Shen, Saeed R. Khosravirad, and Wei Yu, "[./doc/GCK19.pdf Ultra-Reliable Wireless Communications via Incremental Redundancy and Space-Time Coding]", in /IEEE Global Communications Conference (GLOBECOM) Workshop on Future Wireless Access for Industrial IoT/, Dec. 2019
+. Kaiming Shen, Reza K. Farsani, and Wei Yu, "[./doc/isit19.pdf Achievable Rates and Outer Bounds for Full-Duplex Relay Broadcast Channel with Side Message]", in /IEEE International Symposium on Information Theory (ISIT)/, July 2019.
+. Kaiming Shen,Wei Yu, and Saeed R. Khosravirad, "[./doc/spawc19.pdf A Rate-Splitting Approach to Ultrareliable Real-Time Wireless Systems]" (invited), in /IEEE International workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, July 2019.
+. Alaa Alameer Ahmad, Jaber Kakar, Hayssam Dahrouj, Anas Chaaban, Kaiming Shen, Aydin Sezgin, Tareq Y Al-Naffouri, Mohamed-Slim Alouini, "Rate Splitting and Common Message Decoding for MIMO C-RAN Systems", in /IEEE International workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, July 2019.
+. Kaiming Shen, Yonina C. Eldar, and Wei Yu, "[./doc/icassp19.pdf Coordinated Pilot Design for Massive MIMO]", in /IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, May 2019.
+. Kaiming Shen, Reza Khosravi, and Wei Yu, "[./doc/itw18.pdf Capacity Limits of Full-Duplex Cellular Network]" (invited), in /IEEE Information Theory Workshop (ITW)/, Nov. 2018.
+. Wei Cui, Kaiming Shen, and Wei Yu, "Spatial Learning for Wireless Scheduling", in /IEEE Global Communications Conference (GLOBECOM)/, Dec. 2018.
+. Kaiming Shen and Wei Yu, "[./doc/VTC18.pdf Interference Management in Full-Duplex Wireless Cellular Networks via Fractional Programming]" (invited), in /IEEE Vehicular Technology Conference (VTC)/, June 2018.
+. Kaiming Shen and Wei Yu, "[./doc/isit17.pdf FPLinQ: A Cooperative Spectrum Sharing Strategy for Device-to-Device Communications]", in /IEEE International Symposium on Information Theory (ISIT)/, Aachen, Germany, June 2017.
+. Kaiming Shen and Wei Yu, "[./doc/spawc16.pdf Load and Interference Aware Joint Cell Association and User Scheduling in Uplink Cellular Networks]", in /IEEE International workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, Edinburgh, UK, July 2016.
+. Kaiming Shen and Wei Yu, "[./doc/icassp16.pdf Coordinated Uplink Scheduling and Beamforming for Wireless Cellular Networks via Sum-of-Ratio Programming and Matching]", in /IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, Shanghai, China, March 2016.
+. Kaiming Shen and Wei Yu, "[./doc/asilomar15.pdf A Coordinated Uplink Scheduling and Power Control Algorithm for Multicell Networks]" (invited), in /Asilomar Conference on Signals, Systems, and Computers/, Pacific Grove, CA, U.S.A., Nov. 2015.
+. Kaiming Shen and Wei Yu, "[./doc/icassp13.pdf Downlink Cell Association Optimization for Heterogeneous Networks via Dual Coordinate Descent]", in /IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, Vancouver, Canada, May 2013.
+
+== Ph.D. Thesis
+/Fractional Programming for Communication System Design/, University of Toronto, 2020.
+\[[./doc/shen_thesis.pdf thesis]\]
