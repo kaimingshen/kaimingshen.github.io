@@ -1,4 +1,4 @@
-There is a typo in eq. 11 in the original version of this paper published in IEEE Wireless Communications Letters, which has been fixed in the latest version posted on arXiv. We remark that the main idea of eq. 11 is to rotate h_n to the closest position to h_0; but the original math in eq. 11 fails to fulfill this purpose. We remark also that the rest of the paper is not impacted by this typo, so the main results of the paper still hold.
+There is a typo in eq. 11 in the original version of this paper published in IEEE Wireless Communications Letters, which has been fixed in the latest version posted on arXiv. We remark that the main idea of eq. 11 is to rotate h_n to the closest position to g; but the original math in eq. 11 fails to fulfill this purpose. We remark also that the rest of the paper is not impacted by this typo, so the main results of the paper still hold.
 
 The authors of this paper would like to thank Yi Feng and Wenhai Lai for first pointing out the typo.
 
